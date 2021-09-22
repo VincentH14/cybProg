@@ -1,0 +1,7 @@
+admin:password
+admin:password123
+admin:admin
+root:toor
+toor:root
+root:GHpzDyyNFUBeU
+basketball:admin
